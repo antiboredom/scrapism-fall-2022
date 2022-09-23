@@ -128,6 +128,7 @@ Or, working with data (class votes).
 * **[In Defense of Looting by Vicky Osterweil](https://thenewinquiry.com/in-defense-of-looting/)**
 * **[Seeing Like a State (Chapter 2) By James Scott](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)**
 
+---
 
 ### 9. November 29th
 
