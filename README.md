@@ -1,9 +1,9 @@
-# Scrapism @ SFPC, Spring 2022
+# Scrapism @ SFPC, Fall 2022
 
 **Instructor:** [Sam Lavigne](https://lav.io) | [splavigne@gmail.com](mailto:splavigne@gmail.com)  
-**Assistant Teachers:** [Omayeli Arenyeka](https://www.omayeli.com/) and [Ilona Brand](https://theilonabrand.com/)  
+**Assistant Teacher:** [Ilona Brand](https://theilonabrand.com/)  
 **Location:** Online  
-**Time:** Tuesdays 5-8pm ET (Section 1) and Thursdays 6-9pm ET (Section 2)  
+**Time:** Tuesdays 10am-1pm ET  
 **Office Hours:** By appointment  
 **Class Notes:** (link to come)
 
@@ -15,7 +15,7 @@ In this class participants will learn how to scrape massive quantities of materi
 
 ## Schedule
 
-### 1. March 15th / 17th
+### 1. October 4th
 
 Introductions. Using the terminal. Reading lines.
 
@@ -31,7 +31,7 @@ Introductions. Using the terminal. Reading lines.
 
 ---
 
-### 2. March 22nd / 24th
+### 2. October 11th
 
 Intro to python. Manipulating text. Automating writing.
 
@@ -45,7 +45,7 @@ Intro to python. Manipulating text. Automating writing.
 
 ---
 
-### 3. March 29th / 31st
+### 3. October 18th
 
 HTML and CSS basics. Web scraping basics. Making big lists. Basic html publications.
 
@@ -53,7 +53,7 @@ HTML and CSS basics. Web scraping basics. Making big lists. Basic html publicati
 * **[Archives, Records, and Power: The Making of Modern Memory by Terry Cook and Joan Schwartz](https://asset-pdf.scinapse.io/prod/2041373518/2041373518.pdf)**
 * [Scraping XHR](https://scrapism.lav.io/scraping-xhr/)
 
-#### Project 1 (due on April 12th/14th)
+#### Project 1 (due on November 1st)
 
 Theme: The Language of Power
 
@@ -61,7 +61,7 @@ Brief: Compile a list, or an archive of text. Transform that archive into a zine
 
 ---
 
-### 4. April 5th / 7th
+### 4. October 25th
 
 Web scraping part 2: JSON and APIs. Fishing for data. Intro to NLP.
 
@@ -71,7 +71,7 @@ Web scraping part 2: JSON and APIs. Fishing for data. Intro to NLP.
 
 ---
 
-### 5. April 12th / 14th
+### 5. November 1st
 
 Project 1 crit. Scraping images. Basic image publications.
 
@@ -79,7 +79,7 @@ Project 1 crit. Scraping images. Basic image publications.
 * **[When Proof Is Not Enough by Mimi Onuoha](https://fivethirtyeight.com/features/when-proof-is-not-enough/)**
 * [Using Real Browsers](https://scrapism.lav.io/using-real-browsers/)
 
-#### Project 2 (due April 26th/28th)
+#### Project 2 (due November 15th)
 
 Theme: The Commodification of Everything
 
@@ -87,7 +87,7 @@ Brief: Create an archive of images. Present the archive as a publication (in the
 
 ---
 
-### 6. April 19th / 21st
+### 6. November 8th
 
 Real browsers. Processing and analyzing images. Turning images into text. 
 
@@ -97,7 +97,7 @@ Real browsers. Processing and analyzing images. Turning images into text.
 
 ---
 
-### 7. April 26th / 28th
+### 7. November 15th
 
 Project 2 crit. Scraping video.
 
@@ -105,7 +105,7 @@ Project 2 crit. Scraping video.
 * **[Face Trace by Maryam Monalisa Gharavi](https://vimeo.com/253801987?embedded=true&source=video_title&owner=6374650)**
 * **[Race after Technology (introduction) by Ruha Benjamin](http://mycours.es/ems2/files/2020/09/Ruha-Benjamin-%E2%80%93-Race-After-Technology-Introduction.pdf)**
 
-#### Project 3 (due May 17th/19th)
+#### Project 3 (Due December 6th)
 
 Theme: Seeing like a state
 
@@ -115,7 +115,7 @@ Collect a dataset, and transform it into a publication.
 
 ---
 
-### 8. May 3rd / 5th
+### 8. November 22nd
 
 Automating video.
 Or, working with data (class votes).
@@ -129,13 +129,13 @@ Or, working with data (class votes).
 * **[Seeing Like a State (Chapter 2) By James Scott](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)**
 
 
-### 9. May 10th / 12th
+### 9. November 29th
 
 Bots and running scripts over time. 
 
 ---
 
-### 10. May 17th / 19th
+### 10. December 6th
 
 Project 3 crit. Wrap-up discussion.
 
