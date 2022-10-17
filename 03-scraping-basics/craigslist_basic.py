@@ -1,9 +1,9 @@
-import requests
-from bs4 import BeautifulSoup
+from requests_html import HTMLSession
 
-response = requests.get("https://newyork.craigslist.org/search/bar")
-# print(response.text)
-soup = BeautifulSoup(response.text, "html.parser")
-elements = soup.select(".result-heading")
+session = HTMLSession()
+
+response = session.get("https://newyork.craigslist.org/search/bar")
+response.html.render(sleep=2) # you may need to adjust this number!
+elements = response.html.find(".post-title .label")
 for e in elements:
     print(e.text.strip())
