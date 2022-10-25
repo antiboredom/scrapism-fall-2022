@@ -73,7 +73,7 @@ Web scraping part 2: JSON and APIs. Fishing for data. Intro to NLP.
 
 ### 5. November 1st
 
-Project 1 crit. Scraping images. Basic image publications.
+Project 1 crit. Using real browsers. Scraping images. Basic image publications.
 
 #### Readings for next week 
 * **[When Proof Is Not Enough by Mimi Onuoha](https://fivethirtyeight.com/features/when-proof-is-not-enough/)**
