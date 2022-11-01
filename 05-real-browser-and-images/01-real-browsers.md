@@ -14,9 +14,15 @@ Here's a link to the [playwright for python documentation](https://playwright.de
 To install `playwright`:
 
 ```
-pip3 install playwright
+pip install pytest-playwright
 playwright install
 ```
+If you run into some installation errors, you might need to update pip. You can do that with:
+
+```
+pip install --upgrade pip
+```
+and then try to run those other install commands again
 
 *Note: the `playwright install` command downloads a copy of chrome for you!
 
@@ -43,9 +49,9 @@ page = browser.new_page()
 page.goto("https://lav.io")
 
 # grab all the "a" tags
-# use locator(SELECTOR) to grab elements with
+# use query_selector(SELECTOR) to grab elements with
 # a specific css selector
-links = page.locator("a")
+links = page.query_selector("a")
 
 # iterate through them and print
 # the text and href attribute
@@ -99,7 +105,7 @@ If `full_page` is set to be `True` it will save the entire page, otherwise it wi
 You can also capture a specific element like so (replacing "SELECTOR" with the selector of the element you wish to capture.
 
 ```
-page.locator("SELECTOR").screenshot(path="screenshot.png")
+page.query_selector("SELECTOR").screenshot(path="screenshot.png")
 ```
 
 ## Calling JavaScript
