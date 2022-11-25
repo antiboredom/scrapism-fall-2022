@@ -2,7 +2,7 @@ from bing_image_downloader import downloader
 
 
 downloader.download(
-    "Nice dog",
+    "Jeff Bezos",
     limit=100,
     output_dir="bingimages",
     adult_filter_off=False,

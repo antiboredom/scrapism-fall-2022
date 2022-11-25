@@ -68,6 +68,8 @@ For Instagram downloads, I recommend the following command line application:
 [https://github.com/arc298/instagram-scraper/](https://github.com/arc298/instagram-scraper/
 )
 
+*Note: This actually isn't working at the moment!*
+
 Install:
 
 ```
@@ -79,19 +81,19 @@ To use, you'll need to provide an instagram username and password. In this examp
 This example downloads all media, including location data, from the "samlavigne" account, first logging in as "karlmarx4201".
 
 ```
-instagram-scraper samlavigne --include-location -u karlmarx4201 -p fakeinstagrampassword
+instagram-scraper samlavigne --include-location -u karlmarx4201 -p fakeinstagrampassword!
 ```
 
 This downloads everything from a particular location:
 
 ```
-instagram-scraper --location 2371720 --include-location --maximum 10  -u karlmarx4201 -p fakeinstagrampassword
+instagram-scraper --location 2371720 --include-location --maximum 10  -u karlmarx4201 -p fakeinstagrampassword!
 ```
 
 And this downloads everything tagged "karlmarx"
 
 ```
-instagram-scraper --tag karlmarx --include-location --maximum 10  -u karlmarx4201 -p fakeinstagrampassword
+instagram-scraper --tag karlmarx --include-location --maximum 10  -u karlmarx4201 -p fakeinstagrampassword!
 ```
 
 
