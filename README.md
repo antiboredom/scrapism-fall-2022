@@ -104,6 +104,7 @@ Project 2 crit. Scraping video.
 #### Readings for next week
 * **[Face Trace by Maryam Monalisa Gharavi](https://vimeo.com/253801987?embedded=true&source=video_title&owner=6374650)**
 * **[Race after Technology (introduction) by Ruha Benjamin](http://mycours.es/ems2/files/2020/09/Ruha-Benjamin-%E2%80%93-Race-After-Technology-Introduction.pdf)**
+* [FFmpeg - The Ultimate Guide](https://img.ly/blog/ultimate-guide-to-ffmpeg/)
 
 #### Project 3 (Due December 6th)
 
