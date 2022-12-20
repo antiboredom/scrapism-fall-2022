@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Scrapism Class Showcase</title>
+    <link rel="stylesheet" href="base.css">
+    <link rel="stylesheet" href="home.css">
+    <script type="text/javascript" src="info.js"></script>
+    <script src="components/BioBlock.js"></script>
+  </head>
+  <body class="about">
+    <main class="site">
+        <a href="/"><h1>Scrapism Fall 2022 Showcase</h1></a>
+        <section>
+        <h2>About the showcase</h2>
+        <p>
+          Scrapism is a class teaching the eponymous practice of web scraping for artistic, emotional,
+          political and critical ends, rather than those of business or government. The Fall 2022 Scrapism class was taught in
+          by lead teacher <a href="https://lav.io" target="_blank">Sam Lavigne</a> and assistant teacher <a href="https://theilonabrand.com" target="_blank">Ilona Brand</a>. Participants dove into this practice through scraping text,
+          images, and videos from the web and “re-databased” them as a subversion of their original context. <br/><br/>
+          This is a gallery and archive of their work from the session. You can read more about the course in the <a href="https://sfpc.study/sessions/fall-22/scrapism">original description</a> or in the <a href="https://sfpc.study/blog/scrapism-archive-fall22">final class blog post</a>
+        </p>
+        </section>
+        <h2>About the Artists</h2>
+        <div class="bios" id="bios">
+            <!-- This is filled out by the artist info in info.js -->
+        </div>
+    </main>
+    <footer>
+        <a href="about.html">About</a>
+        <a href="https://www.sfpc.study" target="_blank">More from School for Poetic Computation</a>
+    </footer>
+    <script type="text/javascript">
+      function renderArtistBios() {
+        for(artist in info) {
+          let artistData = info[artist]
+          document.getElementById('bios').innerHTML += 
+          `
+          <bio-block
+            artist-name="${artistData['artist-name']}"
+            link-to-project="${artistData['link-to-project']}"
+            artist-bio="${artistData['artist-bio']}"
+            artist-links="${artistData['artist-links']}"
+          ></bio-block>
+          `
+        }
+      }
+      renderArtistBios()
+    </script>
+  </body>
+</html>
