@@ -5,7 +5,7 @@
 **Location:** Online  
 **Time:** Tuesdays 10am-1pm ET  
 **Office Hours:** By appointment  
-**Class Notes:** (link to come)
+**Final Class Showcase:** https://projects.sfpc.study/scrapism-fall-2022-showcase/
 
 Web scraping is the process of automatically downloading and manipulating web content. It's a common practice in silicon valley, where companies large and small transform open html pages into commodified datasets.
 
